@@ -1,0 +1,9 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+#container{
+    width: 1200px;
+    height: 112px;
+    margin: 56px auto;
+}
